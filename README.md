@@ -21,3 +21,8 @@ LANGUAGES USED: JAVASCRIPT AND PYTHON
 ![Screenshot 2024-04-28 210310](https://github.com/akanksharai01/OTIS/assets/95882386/8a82d582-e0a4-4cd6-b7f9-d58ee8d700a8)
 ![Screenshot 2024-04-28 210324](https://github.com/akanksharai01/OTIS/assets/95882386/6f63b72f-2fc1-4191-b79e-3c494e3a51bd)
 ![Screenshot 2024-04-28 221912](https://github.com/akanksharai01/OTIS/assets/95882386/f51e3b23-7eab-4ffb-ac85-bf79d1f6e347)
+
+Project By:
+1. Kaab Gazdar
+2. Akanksha Rai
+3. Nabil Badan
